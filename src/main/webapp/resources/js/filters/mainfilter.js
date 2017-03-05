@@ -1,1 +1,0 @@
-var mainfilter= angular.module('mainfilter',[]);
